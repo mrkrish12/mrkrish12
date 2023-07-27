@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="krishna-agarwal-82689a247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/krishna-agarwal-82689a247" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@krishnaagarwal182mr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@krishnaagarwal182mr" height="30" width="40" /></a>
+<a href="krishna-agarwal-82689a247" target="blank"><img align="center" href="www.linkedin.com/in/krishna-agarwal-82689a247" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/krishna-agarwal-82689a247" height="30" width="40" /></a>
+<a href="https://medium.com/@krishnaagarwal182mr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@krishnaagarwal182mr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://medium.com/@krishnaagarwal182mr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://medium.com/@krishnaagarwal182mr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krishnaagarwal182mr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="krishnaagarwal182mr" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/krishnaagarwal182mr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="krishnaagarwal182mr" height="30" width="40" /></a>
