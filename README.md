@@ -1,3 +1,4 @@
+![logo](https://github.com/mrkrish12/mrkrish12/blob/main/Krishna%20Agarwal.gif)
 <h1 align="center">Hi 👋, I'm Krishna Agarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
