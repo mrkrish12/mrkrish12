@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MongoDb, Angular firebase ects**
 
-- 👨‍💻 All of my projects are available at [https://papaya-conkies-ac6065.netlify.app/](https://papaya-conkies-ac6065.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://krishna-agarwal-ac6065.netlify.app/](https://krishna-agarwal-ac6065.netlify.app/)
 
 - 💬 Ask me about **Java and WEB**
 
